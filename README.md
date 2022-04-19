@@ -4,3 +4,6 @@
 Requires Open Joystick Display to use: https://github.com/KernelZechs/open-joystick-display
 
 ![Preview Image](https://raw.githubusercontent.com/Sophie-bear/ojd-n3DS/main/ojd3ds.png)
+
+# OJD Settings
+![Preview Image](https://raw.githubusercontent.com/Sophie-bear/ojd-n3DS/main/ojdsettings.png)
