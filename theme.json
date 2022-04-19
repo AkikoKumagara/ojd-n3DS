@@ -1,0 +1,12 @@
+{
+	"id":"n3DS",
+	"name":"n3DS",
+	"author":"Akiko Kumagara",
+	"version":"1.0",
+	"copyright":"2022 Akiko Kumagara",
+	"license":"BSD 4-Clause Attribution",
+	"website":"https://ojdproject.com",
+	"styles":[
+		{"id":"n3DS",		"name":"n3DS", "file":"theme-n3DS.html"}
+	]
+}

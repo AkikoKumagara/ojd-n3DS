@@ -1,0 +1,79 @@
+.theme {
+	position:relative;
+	top:0px;
+	left:0px;
+	width:800px;
+	height:600px;
+}
+.theme-button.active{
+	fill:white !important;
+}
+
+.theme-button-label.active{
+	fill:white !important;
+}
+.theme-button-label.active *{
+	fill:black !important;
+}
+
+.theme-button-label-stroke.active{
+	stroke:black !important;
+}
+.theme-button-label-stroke.active *{
+	stroke:black !important;
+}
+
+.theme-analog-wrapper {
+	position:absolute;
+	top:0%;
+	left:0%;
+	height:40px;
+	width:40px;
+	border-radius:100%;
+}
+.theme-analog {
+	position:absolute;
+	top:0%;
+	left:0%;
+	width:60px;
+	height:60px;
+	background:#333;
+	border-radius:100%;
+	background: radial-gradient(ellipse at center, #CCC 0%,#999 100%);
+}
+.theme-analog.active {
+	background:white;
+	background: radial-gradient(ellipse at center, #CCC 0%,#999 100%);
+}
+.theme-analog-dual-left {
+	position:absolute;
+	top:0%;
+	left:0%;
+	width:60px;
+	height:60px;
+	margin-left:131px;
+	margin-top:340px;
+	background:#333;
+	border-radius:100%;
+	background: radial-gradient(ellipse at center, #CCC 0%,#999 100%);
+}
+.theme-analog-dual-right {
+	position:center;
+	top:0%;
+	left:0%;
+	width:32px;
+	height:32px;
+	margin-left:567px;
+	margin-top:335px;
+	background:#333;
+	border-radius:100%;
+	background: radial-gradient(ellipse at center, #CCC 0%,#999 100%);
+}
+.theme-analog-dual-left.active {
+	background:white;
+	background: radial-gradient(ellipse at center, #CCC 0%,#999 100%);
+}
+.theme-analog-dual-right.active {
+	background:white;
+	background: radial-gradient(ellipse at center, #DDD 0%,#DDD 100%);
+}
