@@ -1,7 +1,7 @@
 .theme {
 	position:relative;
-	top:0px;
-	left:0px;
+	top:-165px;
+	left:-45px;
 	width:800px;
 	height:600px;
 }
@@ -49,29 +49,31 @@
 	position:absolute;
 	top:0%;
 	left:0%;
-	width:60px;
-	height:60px;
-	margin-left:131px;
-	margin-top:340px;
+	width:100px;
+	height:100px;
+	margin-left:35px;
+	margin-top:535px;
 	background:#333;
 	border-radius:100%;
-	background: radial-gradient(ellipse at center, #CCC 0%,#999 100%);
+    box-shadow: 0 0 0 2pt grey;
+	background: radial-gradient(ellipse at center, #DDD 0%,#BBB 100%);
 }
 .theme-analog-dual-right {
 	position:center;
 	top:0%;
 	left:0%;
-	width:32px;
-	height:32px;
-	margin-left:567px;
-	margin-top:335px;
+	width:36px;
+	height:36px;
+	margin-left:710px;
+	margin-top:520px;
 	background:#333;
 	border-radius:100%;
-	background: radial-gradient(ellipse at center, #CCC 0%,#999 100%);
+	box-shadow: 0 0 0 2pt grey;
+	background: radial-gradient(ellipse at center, #CCC 0%,#CCC 100%);
 }
 .theme-analog-dual-left.active {
 	background:white;
-	background: radial-gradient(ellipse at center, #CCC 0%,#999 100%);
+	background: radial-gradient(ellipse at center, #DDD 0%,#BBB 100%);
 }
 .theme-analog-dual-right.active {
 	background:white;
